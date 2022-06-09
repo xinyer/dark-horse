@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">任你行</string>
+    <string name="error_network_message">网络不可用</string>
+    <string name="error_unknown_message">未知错误，请稍后重试</string>
+    <string name="pay_error_generic_message">支付失败，请稍后重试</string>
+    <string name="enterprise_pay_success">出票中</string>
+    <string name="enterprise_pay_none">未支付</string>
+    <string name="passenger">乘机人</string>
+    <string name="enterprise_pay">企业支付</string>
+    <string name="enterprise_travel">因公</string>
+    <string name="retry">重试</string>
+    <string name="my_order_list">我的出行订单</string>
+</resources>

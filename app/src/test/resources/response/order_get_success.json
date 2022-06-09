@@ -1,0 +1,28 @@
+{
+  "code": 0,
+  "message": "",
+  "create_at": 1654492650000,
+  "order":
+  {
+    "id": "20220605001",
+    "origin": "西安",
+    "destination": "北京",
+    "origin_airport": "咸阳机场",
+    "destination_airport": "大兴国际机场",
+    "departure_time": "9:30",
+    "landing_time": "12:45",
+    "airlines": "东方航空",
+    "departure_date": "20220605",
+    "price": 580.0,
+    "passenger":
+    {
+      "id": "20200604110",
+      "name": "王鑫",
+      "department": "Telecom Digital"
+    },
+    "type": 0,
+    "payment_status": 1,
+    "create_at": 1654413450000,
+    "expire_at": 1654499850000
+  }
+}
